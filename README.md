@@ -22,7 +22,7 @@ _In progress:_ **ISACA AAISM**, **AWS CLF-C02**
 Led enterprise NIST CSF assessment, MFA rollout (Duo), email security uplift (Trellix/Barracuda), and EDR (CrowdStrike); policy governance and risk reductions across the org.
 
 ## Portfolio & Resume
-- 🌐 Portfolio: https://your-username.github.io  
+- 🌐 Portfolio: https://shazim.github.io 
 - 📄 Résumé: [`Saad Hazim Resume-OCT.pdf`](./Saad%20Hazim%20Resume-OCT.pdf)
 
 ## Contact
