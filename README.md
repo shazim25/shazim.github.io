@@ -17,7 +17,7 @@ _In progress:_ **ISACA AAISM**, **AWS CLF-C02**
 - **Infra rebuild + device automation** — New firewall + SCCM/NinjaOne → **60% less downtime** and **45% faster patching**.
 - **MDR partnership (Arctic Wolf)** — **~30% faster** incident detection & resolution; improved overall posture.
 
-## Experience (condensed)
+## Experience
 **Director of IT & Cybersecurity — Barona Band of Mission Indians**  
 Led enterprise NIST CSF assessment, MFA rollout (Duo), email security uplift (Trellix/Barracuda), and EDR (CrowdStrike); policy governance and risk reductions across the org.
 
